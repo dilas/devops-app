@@ -1,6 +1,6 @@
-package br.com.cabal.devops.controller;
+package br.com.devops.controller;
 
-import br.com.cabal.devops.Application;
+import br.com.devops.Application;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
